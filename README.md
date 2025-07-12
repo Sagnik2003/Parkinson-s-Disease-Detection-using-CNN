@@ -21,6 +21,7 @@ It contains:
 - SVG and PNG images of the architecture are included in the repo:
   - `model_architecture.svg`
   - `model_architecture.png`
+<img src="PD_net" alt="Model Architecture" width="500"/>
 
 ---
 
