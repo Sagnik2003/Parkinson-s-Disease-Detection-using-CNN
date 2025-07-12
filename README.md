@@ -21,8 +21,6 @@ It contains:
 - SVG and PNG images of the architecture are included in the repo:
   - `PD_net.svg`
 ![Model Architecture](PD_net.svg)
-  - `PD_net.png`
-![Model Architecture](PD_net.png)
 
 
 ---
