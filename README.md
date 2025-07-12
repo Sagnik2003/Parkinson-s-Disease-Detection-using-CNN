@@ -35,6 +35,6 @@ Ready-to-use PyTorch `.pth` files are available in the `PD_torch_logs/` director
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/parkinsons-detection.git
+git clone https://github.com/Sagnik2003/parkinsons-detection.git
 cd parkinsons-detection
 pip install -r requirements.txt
