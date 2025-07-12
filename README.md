@@ -33,6 +33,16 @@ Ready-to-use PyTorch `.pth` files are available in the `PD_torch_logs/` director
 
 ---
 
+## ✒️ Ciations
+
+@inproceedings{PereiraSIBGRAPI:16,
+author = {C. R. Pereira and S. A. T. Weber and C. Hook and G. H. Rosa and J. P. Papa
+title = {Deep Learning-aided Parkinson's Disease Diagnosis from Handwritten Dynamics},
+booktitle = {Proceedings of the SIBGRAPI 2016 - Conference on Graphics, Patterns and Images},
+pages = {340--346},
+year = {2016}
+}
+
 ## 📦 Installation
 
 ```bash
