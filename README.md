@@ -7,7 +7,7 @@ This project implements a shallow Convolutional Neural Network (CNN) to classify
 ## 📁 Dataset
 
 - The augmented dataset used here, is available on **Kaggle**:  
-  🔗 [[Link to Kaggle Dataset](https://www.kaggle.com/datasets/sagnikkayalcse52/handpd-augmented-data)](#) *(replace with actual URL)*
+  🔗 [[Link to Kaggle Dataset](https://www.kaggle.com/datasets/sagnikkayalcse52/handpd-augmented-data)](#) 
 
 It contains:
 - Original drawings (spirals, circles, meanders)
@@ -26,7 +26,7 @@ It contains:
 
 ## 🧪 Pretrained Models
 
-Ready-to-use PyTorch `.pth` files are available in the `saved_models/` directory:
+Ready-to-use PyTorch `.pth` files are available in the `PD_torch_logs/` directory:
 - `best_model0.9677.pth` (high validation accuracy)
 - Can be loaded and used for inference via the `prediction.py` script
 
