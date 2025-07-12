@@ -6,8 +6,8 @@ This project implements a shallow Convolutional Neural Network (CNN) to classify
 
 ## 📁 Dataset
 
-- The original and augmented dataset is available on **Kaggle**:  
-  🔗 [Link to Kaggle Dataset](#) *(replace with actual URL)*
+- The augmented dataset used here, is available on **Kaggle**:  
+  🔗 [[Link to Kaggle Dataset](https://www.kaggle.com/datasets/sagnikkayalcse52/handpd-augmented-data)](#) *(replace with actual URL)*
 
 It contains:
 - Original drawings (spirals, circles, meanders)
