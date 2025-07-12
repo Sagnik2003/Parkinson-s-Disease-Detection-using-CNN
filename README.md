@@ -19,8 +19,9 @@ It contains:
 
 - A **shallow CNN** architecture with fewer layers to reduce overfitting on small data
 - SVG and PNG images of the architecture are included in the repo:
-  - `model_architecture.svg`
-  - `model_architecture.png`
+  - `PD_net.svg`
+![Model Architecture](PD_net.svg)
+  - `PD_net.png`
 ![Model Architecture](PD_net.png)
 
 
